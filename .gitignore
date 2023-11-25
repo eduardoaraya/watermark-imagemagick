@@ -1,0 +1,5 @@
+*.png
+bin/*
+output
+input
+.vscode
